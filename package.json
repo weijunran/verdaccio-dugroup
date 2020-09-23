@@ -1,0 +1,55 @@
+{
+  "_from": "verdaccio-simplegroup",
+  "_id": "verdaccio-simplegroup@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-DkN7IpUA/6yCeRV5aJiXlPAy30dFR1ArEMDcdy5LD2TuqQhTVRwI/52t7FVR4YWX7OAupQx3aapIFfCUZm8kMw==",
+  "_location": "/verdaccio-simplegroup",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "verdaccio-simplegroup",
+    "name": "verdaccio-simplegroup",
+    "escapedName": "verdaccio-simplegroup",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://127.0.0.1:4001/verdaccio-simplegroup/-/verdaccio-simplegroup-1.0.2.tgz",
+  "_shasum": "5df958425ef533a888a8eb23d87ba2a0e0a5c7d2",
+  "_spec": "verdaccio-simplegroup",
+  "_where": "/Users/admin",
+  "author": {
+    "name": "snail"
+  },
+  "bugs": {
+    "url": "https://github.com/btshj-snail/snail-verdaccio-group/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "http-errors": "^1.7.3"
+  },
+  "deprecated": false,
+  "description": "verdaccio plugin authority",
+  "devDependencies": {},
+  "homepage": "https://github.com/btshj-snail/snail-verdaccio-group#readme",
+  "keywords": [
+    "verdaccio",
+    "plugin",
+    "authority"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "verdaccio-simplegroup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btshj-snail/snail-verdaccio-group.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
