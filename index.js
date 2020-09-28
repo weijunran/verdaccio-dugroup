@@ -5,6 +5,10 @@ class DynamicGroupPlugin {
     this.pluginsConfig = config
   }
 
+  checkPkgAction(pkg,action){
+    return pkg[action]
+  }
+
   authenticate(action) {
     // here your code
     return (user, pkg, cb)=>{
